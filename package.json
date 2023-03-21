@@ -1,0 +1,23 @@
+{
+  "name": "ecellwebsite",
+  "version": "1.0.0",
+  "description": "E-Cell IIC Website",
+  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "flowbite": "^1.6.4",
+    "morgan": "^1.10.0",
+    "tailwindcss": "^3.2.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tailwindcss -i ./input.css -o ./views/assets/css/output.css",
+    "watch": "tailwindcss -i ./input.css -o ./views/assets/css/output.css --watch",
+    "start": "node server.js"
+  },
+  "author": "Sk Shahnawaz",
+  "license": "ISC"
+}
