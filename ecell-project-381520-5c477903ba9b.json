@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ecell-project-381520",
+  "private_key_id": "5c477903ba9ba87e7f893f303d2f7890dbe0c114",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCkBGuHUj8SNFkV\nWDOc4ewgDVAHWA/fgCxFGXZp7Nr79rOC76vRYbB8sg8Htb0ol8RKq+oyHerYIHE8\njMKE6OZCe4eb3yarR6cTcxkXZUxo8Mo1wMbR8HI2ybTW6aGVrAFmWJQeaaVZDvby\nBCYIHIeM7+gWsPmJWEdQkdPAfwkaR7v4rA6SOFzZu7mNzfF0/S1GbGs545Y0ccMG\nzhy80xmkDYvJOUr9FajbRacvWgXp3kejy0w/T72zw/6YqH1G+vv/tjsbqbS9h765\nLdbfLxPGdLxMcCCanGBCcMtyUJiMcUKlkYcLDAr5uyu3jNBXx+LnIGtiSpnKrezb\n0YqXH2eLAgMBAAECggEAG8tr9Xiom4sndYiG5pUakKvw3e28cuGjnuobuQOccIp0\nDUJUWZ02bUs3ZNUVgyWE7CqJ+4g6XfnRdrNb224kZyvL5UxBn1D7LT6aB+7wre/w\nNH/AsZ8Pm90+uhTJfzWw3wkvwJ+il58DlivBzioXhni5We8PuoitPSgZPEvK3Rr5\nbEhPc87tZO03PygcHgnkqBeCqUFmXXF1ZzyfuTZDLSGOBbimqUmKgnevUocxGXIF\nBUwjNH6M+gIPRMbFVW+U4/OZtC2fQnXTV+n2FuBsQ0aDM4BlMzHWRobbN1REaui+\nSWGP+GWsMIUESAvBXzAUGM0gdmZUX/58MmnISkzAMQKBgQDVSKEAbJ2fynM/Wr9K\nr0h9J8awBj1eRuBAbNGHzhr5DwHENnG9zbFTLMfO+z94z+4VWiw9TH/YfpZMsHBi\nw0sT6lLtCjwkx+hjQuqqBvp/bxOARTw8jZoGU3G7VlM5xn/ZsyzTsrg2+Z67JrEB\nupSq44pj7SyDFzTji92voxy7PwKBgQDE3dPsoOqaq+vDibI8Op5EShIk2RrozISV\nEnLPKX+k8+fLRzQ/1CcpvzjKLxEb6H3yaDSw+ssRIRm/8t4cicBbcITISZhD2C9V\n+19jl+2yFWQgvGPGGDAYjb4oiegrY6yxC9g+wYnkLXJmZisFurevHobsxpswgqG9\nRU28hkP8tQKBgEqJGjLiwmcQQhxW41j/Tq7mUqo7VAD5de8t2D/EiGqXkv92I2O4\nWYr+sEkmRrU6vTJbE/DMJjWLb40Xb/8jzr4D+rz6AbC85/qgbQ/EZpBYShFeoMFs\nnvItASb98RHUy+NRmY3V/EjCDXXL/Lnk8YWTBU8MmKyrVIFc5Lk3oJfTAoGBALQT\n5cLR/0e0c1jOH8eQJy14Q9iI72B7k9t4oKR25VfR8/myDE1GlvxM+nmXTCMnK+4M\n/AXXouDsUk2OrzWTm+0Io61CBJIqskIISl0joD4B6zE2ol2VyojrP0J9w23NIy5g\nE1J0Xtnl6HtagYggH92EIw97LIHXPHORbWZBuvbxAoGAWjEb0swDF/WLnEn0EDRA\n1QmsLn29wp0BFCC/Z3hjunNruRfWT6sS3O+gkwG9fia4w+BGkto1rzopYQt8l1LR\nC8dyT9Ni/Yb6SLktnkyddJyXwbJItr6vG8oh7+BaCWJlxgBYw48A6iiiaDJcGBcl\n2ODEsuPajnfdnSXAvt2MfYE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ecell-service-acc@ecell-project-381520.iam.gserviceaccount.com",
+  "client_id": "117597958011576971024",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ecell-service-acc%40ecell-project-381520.iam.gserviceaccount.com"
+}
